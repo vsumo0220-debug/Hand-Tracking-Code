@@ -3,3 +3,8 @@ Working Hand tracking on pc through VS Code using Media pipe modules
 
 -Here is an example of how it works:
 https://youtu.be/NjXZrLZZQCA?si=6a3Herppc72a7K-k
+
+Hand Signs:
+-index fingers = control mouse
+-y2k hand sign = scroll
+-thumb & index = click
